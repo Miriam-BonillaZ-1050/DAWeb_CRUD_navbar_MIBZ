@@ -15,11 +15,11 @@ CRUD de varias app de Tienda Deportiva en Django Python
 
 - Aplicacion Empleados:
 
-![image](https://github.com/user-attachments/assets/3a9733aa-77a7-44ce-af68-d959b13eb6a2)
+![image](https://github.com/user-attachments/assets/0576d36a-8081-44fd-a544-02361277cc36)
 
 - Editar Empleado:
 
-![image](https://github.com/user-attachments/assets/7dad781c-f6b0-4626-bec9-6de09cc0e62e)
+![image](https://github.com/user-attachments/assets/d16219a9-ca55-4df2-bb59-30d86725bc77)
 
 - Aplicacion Pagos:
 
