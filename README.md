@@ -23,11 +23,11 @@ CRUD de varias app de Tienda Deportiva en Django Python
 
 - Aplicacion Pagos:
 
-![image](https://github.com/user-attachments/assets/6ff70eba-3654-4f92-98eb-1ccc748d8cb3)
+![image](https://github.com/user-attachments/assets/f4a6759e-8a8c-44b0-98c2-d264b57495a4)
 
 - Editar Pago:
 
-  ![image](https://github.com/user-attachments/assets/72392417-89c9-4ae6-903f-203506e2c665)
+![image](https://github.com/user-attachments/assets/a8721470-9e5b-42b8-91c8-34b6c5f3fa42)
 
 - Aplicacion Sucursal:
   
@@ -47,10 +47,10 @@ CRUD de varias app de Tienda Deportiva en Django Python
 
 - Aplicacion Productos:
 
-![image](https://github.com/user-attachments/assets/6f10c558-22b5-48c7-9e91-c3d50eb95af3)
+![image](https://github.com/user-attachments/assets/0eb6460d-ae49-420c-b232-42501d0ded4b)
 
 - Editar Productos:
 
-![image](https://github.com/user-attachments/assets/2e0ea25c-21ab-48c7-ba3d-204f05a7e57a)
+![image](https://github.com/user-attachments/assets/76bea57f-7248-4795-bb93-870293fcecb7)
 
 
