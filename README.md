@@ -47,9 +47,10 @@ CRUD de varias app de Tienda Deportiva en Django Python
 
 - Aplicacion Productos:
 
-![image](https://github.com/user-attachments/assets/872e7264-efee-4bb7-8b17-9031a8aba12c)
+![image](https://github.com/user-attachments/assets/6f10c558-22b5-48c7-9e91-c3d50eb95af3)
 
 - Editar Productos:
 
-![image](https://github.com/user-attachments/assets/e1d3b7e1-31b5-4029-af17-d8e81bc78d6e)
+![image](https://github.com/user-attachments/assets/2e0ea25c-21ab-48c7-ba3d-204f05a7e57a)
+
 
